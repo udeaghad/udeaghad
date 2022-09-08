@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @udeaghad
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on coding
-- 📫 you can reach me on dozie.udeagha@gmail.com
+- 🌱 I’m looking to collaborate on coding
+- 💞️ you can reach me on dozie.udeagha@gmail.com
 - 📫 connect with me on https://www.linkedin.com/in/dozie-udeagha/
 - 👋share your thoughts with me on https://twitter.com/theodoz
 
